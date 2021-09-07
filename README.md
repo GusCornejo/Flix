@@ -16,13 +16,20 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 - [x] (3pts) User can view the movie poster image for each movie.
 
 #### BONUS
-- [ ] (2pt) User can view the app on various device sizes and orientations.
-- [ ] (1pt) Run your app on a real device.
+- [x] (2pt) User can view the app on various device sizes and orientations.
+- [x] (1pt) Run your app on a real device.
 
 ### App Walkthrough GIF
 
 <img src="https://github.com/GusCornejo/Flix/blob/main/FLIX.gif" width=250><br>
 
+### App Test on Personal Device GIF
+
+<img src="https://github.com/GusCornejo/Flix/blob/main/Test.gif" width=250><br>
+
+
 ### Notes
 
-- 
+- Seeting up the poster API path was challenging.
+- Adding layout constraints for multiple device compatiblity was a little bit tedious was rewarding.
+- Testing App on my own iPhone was wholesome.
