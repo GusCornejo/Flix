@@ -170,7 +170,6 @@
 				75034058793CC35CDBD2553A /* Pods-FlixTests.debug.xcconfig */,
 				22F5AED8947318E6265DB0B8 /* Pods-FlixTests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -605,7 +604,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = CodePath.Flix;
+				PRODUCT_BUNDLE_IDENTIFIER = CodePath.FlixPt1;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -625,7 +624,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = CodePath.Flix;
+				PRODUCT_BUNDLE_IDENTIFIER = CodePath.FlixPt1;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
